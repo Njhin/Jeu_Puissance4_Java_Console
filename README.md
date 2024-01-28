@@ -1,1 +1,3 @@
-# Jeu Puissance4 Java console
+# Java console game: Connect 4
+
+One player versus one player mode
